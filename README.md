@@ -12,7 +12,7 @@ This repository fills that gap.
 First, add this Helm repository:
 
 ```sh
-helm repo add istio https://fablestudios.github.io/istio-charts/
+helm repo add istio https://3h4x.github.io/istio-charts/
 ```
 
 Then, follow the [Istio Helm installation instructions][istio-install], using the charts in this repository for instead of the `manifests/` paths:
